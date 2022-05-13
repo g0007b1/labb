@@ -1,13 +1,14 @@
-#Лабораторная работа №2
-##Основы git и JS
+# Лабораторная работа №3
+## Использование npm, webpack и REST API
 
-###Чтобы запустить проект нужно:
+### Чтобы запустить проект нужно:
 1) Иметь подключение к интернету
 2) Сделать git clone репозитория
-3) Перейти на ветку develop (git checkout develop)
-4) Открыть файл index.html
+3) В терминале прописать следующие команды:
+4) npm run build - создает директорию dist со сборкой и можно запустить index.html или
+5) npm run start - запускает сервер с динамическим обновлением
 
-###Проект с адаптивной разметкой!
+### Проект с адаптивной разметкой!
 ####
 
 ####Внимание! 
@@ -15,6 +16,7 @@
 
 
 ![alt Скриншот Задания 1](src/assets/images/ReadMe/Task1.png)
-![alt Скриншот Задания 2](src/assets/images/ReadMe/Task2.png)
-![alt Скриншот Задания 1 мобильной версии](src/assets/images/ReadMe/Task1_mobile.png)
-![alt Скриншот Задания 2 мобильной версии](src/assets/images/ReadMe/Task2_mobile.png)
+![alt Скриншот Задания 1](src/assets/images/ReadMe/Task2.1.png)
+![alt Скриншот Задания 1](src/assets/images/ReadMe/Task2.2.png)
+![alt Скриншот Задания 1](src/assets/images/ReadMe/Task3.png)
+
